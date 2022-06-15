@@ -1,0 +1,2 @@
+
+https://raw.githubusercontent.com/nshomron/covidpred/36161ea0f2f74815f13b412d91ff64e9eab38e65/data/corona_tested_individuals_ver_006.english.csv.zip
